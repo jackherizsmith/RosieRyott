@@ -42,6 +42,7 @@ body {
     width: 32rem;
     border-radius: 100%;
     z-index: -1;
+    overflow: hidden;
 }
 
 .logo__circle--red{
